@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifroghop2worlds" alt="ifroghop2worlds" /></a> </p>
 
-- 🔭 I’m currently working on [Inventory SaaS](private)
-
-- 🌱 I’m currently learning **Rust**
-
-- 🌱 I’m currently learning **GraphQL**
+- 🔭 I’m currently working on a [Inventory SaaS](private)
 
 - 💬 Ask me about **anything**
 
@@ -17,7 +13,11 @@
 
 - 📄 Know about my experiences [https://billsdev.space/resume](https://billsdev.space/resume)
 
-- ⚡ Fun fact **The sky is sometimes blue**
+- ⚡ Fun fact **I learned to code in c++ and I seriously need to finish my dev site😅**
+  
+- 🌱 I’m currently learning **Rust**
+
+- 🌱 I’m currently learning **GraphQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
