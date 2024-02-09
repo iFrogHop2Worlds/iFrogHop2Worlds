@@ -15,9 +15,8 @@
 
 - ⚡ Fun fact **I learned to code in c++ and I seriously need to finish my dev site😅**
   
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust concurrency, writting a multi threaded asyncronous webserver.**
 
-- 🌱 I’m currently learning **GraphQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
