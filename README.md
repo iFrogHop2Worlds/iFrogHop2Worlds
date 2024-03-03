@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://billsdev.space/resume](https://billsdev.space/resume)
 
-- ⚡ Fun fact **I worked in construction from 7 years before I started to learn about programming.**
+- ⚡ Fun fact **I worked in construction for 7 years before I started to learn about programming.**
   
 - 🌱 I’m currently learning **Rust concurrency, writting a multi threaded asynchronous webserver.**
 
