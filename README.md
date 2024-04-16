@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a [Inventory SaaS](private)
+- 🔭 I’m currently working on a [Inventory SaaS](private) & ecommerce freelancing
 
 - 💬 Ask me about **anything**
 
