@@ -14,8 +14,3 @@
 - ⚡ Fun fact **I worked in construction for 7 years before I started to learn about programming.**
   
 - 🌱 I’m currently learning **Deep diving in Rust.**
-
-<p align="left"><img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifroghop2worlds&show_icons=true&locale=en&layout=compact" alt="ifroghop2worlds" /></p>
-
-
-
