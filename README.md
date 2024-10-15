@@ -3,14 +3,14 @@
 
 
 
-- 🔭 I’m currently working on a [Inventory SaaS](private) & ecommerce freelancing
+- 🔭 I’m currently working on [Inventory & Booking SaaS](private) products.
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **bill@tsuga.digital**
 
-- 📄 Know about my experiences [https://billsdev.space/resume](https://billsdev.space/resume)
+- 📄 My experience [https://billsdev.space/resume](https://billsdev.space/resume)
 
-- ⚡ Fun fact **I worked in construction for 7 years before I started to learn about programming.**
+- ⚡ Fun fact **I come from a construction background.**
   
-- 🌱 I’m currently learning **Deep diving in Rust.**
+- 🌱 I’m currently **deep diving in Rust.**
