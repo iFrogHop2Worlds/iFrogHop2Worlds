@@ -13,4 +13,4 @@
 
 - ⚡ Fun fact **I come from a construction background.**
   
-- 🌱 I’m currently **deep diving in Rust.**
+- 🌱 I’m currently **Building a startup with rust and next :D.**
