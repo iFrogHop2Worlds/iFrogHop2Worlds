@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **bill@tsuga.digital**
+- 📫 How to reach me **bill@crowsec.software**
 
 - 📄 My experience [https://billsdev.space/resume](https://billsdev.space/resume)
 
