@@ -13,4 +13,4 @@
 
 - ⚡ Fun fact **I come from a construction background.**
   
-- 🌱 I’m currently **Building a startup** with rust, react and nextjs :D
+- 🌱 I’m currently **Building a software company** focused on business applications.
