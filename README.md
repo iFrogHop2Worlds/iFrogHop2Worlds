@@ -3,14 +3,12 @@
 
 
 
-- 🔭 I’m currently working on [Inventory & Booking SaaS](private) products.
+- 🌱 I’m currently designing and building tools for **commerce, administration, analytics**.
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **bill@crowsec.software**
+- 📫 Reach me at **bill@crowsec.software**
 
 - 📄 My experience [https://billsdev.space/resume](https://billsdev.space/resume)
 
 - ⚡ Fun fact **I come from a construction background.**
   
-- 🌱 I’m currently **Building a software company** focused on business applications.
+
