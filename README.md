@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Billy Best</h1>
-<h3 align="center">A fullstack developer from Canada</h3>
+# `👽 Hello! I'm Billy Best 🌐`
+### `Fullstack Developer from Canada 🍁`
 
-
-
-- 🌱 I’m currently designing and building tools for **commerce, administration, analytics**.
+- 🌱 I’m currently **Architecting Digital Realities**.
 
 - 📫 Reach me at **bill@crowsec.software**
 
 - 📄 My experience [https://billsdev.space/resume](https://billsdev.space/resume)
 
-- ⚡ Fun fact **I come from a construction background.**
+- ⚡ Fun fact: Frogs are skin drinkers! Rather then drink through their mouth they absorb the water through patches on their skin.
   
 
