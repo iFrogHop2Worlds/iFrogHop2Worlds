@@ -1,5 +1,5 @@
 # `👽 Hello! I'm Billy Best 🌐`
-### `Fullstack Developer from Canada 🍁`
+### `A programmer from Canada 🍁`
 
 ⚙️ I’m currently **Architecting Digital Realities**.
 
