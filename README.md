@@ -10,7 +10,10 @@ I enjoy coffee, memory layouts and long walks on the beach.
 
 💾 My experience [https://billsdev.space/resume](https://billsdev.space/resume)
 
-👧 Side Projects:  3d **tower defense game** and a **data tool** for navigating, visualizing data, editing files, exporting visual diagrams and reports, writting **DSL's & libraries**
+👧 Side Projects:  
+- 3d **tower defense game** 
+- **data tool** for navigating, visualizing data, editing files, exporting visual diagrams and reports
+- writting **DSL's & libraries**
 
 ⚛️ Fun fact: Frogs are skin drinkers! Rather then drink through their mouth they absorb the water through patches on their skin.
   
