@@ -4,7 +4,7 @@ I enjoy coffee, memory layouts and long walks on the beach.
 
 ##
 
-⚙️ I’m currently building a platform for learn programming with some very interesting features. Will be available on desktop and web client soon.
+⚙️ I’m currently building a platform for learning programming with some very interesting features making learning immersive, engaging and fun. With some thought out techniques to really develop students mental model. Will be available on desktop and web client soon.
 
 📡 Reach me at **bill@crowsec.software** 
 
