@@ -7,9 +7,9 @@ I enjoy coffee, memory layouts and long walks on the beach.
 🔨 I’m currently building business applications and a learning platform to teach programming effectively in the modern era.
 
 👧 Side Projects:  
-- 3d **tower defense game** 
-- **data tool** for navigating, visualizing data, editing files, exporting visual diagrams and reports
-- writting **DSL's & libraries**
+- RND in **languages, databases, data structures and algorithms**
+- **Charter** a tool for navigating, visualizing data, exporting reports etc.
+- A 3d **tower defense** game written in Rust using the Fyrox Game engine. 
 
 𓅇  My experience [https://billsdev.space/resume](https://billsdev.space/resume)
 
