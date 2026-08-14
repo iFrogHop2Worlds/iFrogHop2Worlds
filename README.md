@@ -5,6 +5,7 @@ I enjoy coffee, memory layouts and long walks on the beach.
 ##
 
 🔨 I’m currently building business applications.
+
 👧 Side Projects:  
 - RND in **languages, databases, data structures and algorithms**
 - **Interactive learning platform** Learn to code with a refreshing blend of classical and modern learning methods.
