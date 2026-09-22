@@ -13,7 +13,7 @@ I enjoy coffee, memory layouts and long walks on the beach.
 - A 3d **tower defense** game written in Rust using the Fyrox Game engine.
 - A next generation gaming platform. 
 
-𓅇  My experience [https://billsdev.space/resume](https://bbest.dev/resume)
+𓅇  My experience [https://bbest.dev/resume](https://bbest.dev/resume)
 
 ˙𐃷˙ Fun fact: Frogs are skin drinkers! Rather then drink through their mouth they absorb the water through patches on their skin.
   
